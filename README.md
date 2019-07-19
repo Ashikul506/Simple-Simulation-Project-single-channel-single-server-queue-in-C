@@ -1,0 +1,1 @@
+This is a simple simulation project. The project is about Single Channel Single Server Queue. The project is done in C(Programming Language). The project is for Simulation and Modelling course for my University (Daffodil International University) .
